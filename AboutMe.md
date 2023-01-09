@@ -9,7 +9,7 @@ Jestem Ala i jestem studentką.
 
 ### Zdjęcie kota
 
-![Kot]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.national-geographic.pl%2Fartykul%2Fchcesz-by-kazdy-kot-cie-kochal-wystarczy-jedna-prosta-sztuczka&psig=AOvVaw1Xh5-sYofhu5gap-c_y70I&ust=1673370373161000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC2isf8uvwCFQAAAAAdAAAAABAF](https://www.national-geographic.pl/media/cache/slider_big/uploads/media/default/0014/23/kot.jpeg))
+![Kot]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.national-geographic.pl%2Fartykul%2Fchcesz-by-kazdy-kot-cie-kochal-wystarczy-jedna-prosta-sztuczka&psig=AOvVaw1Xh5-sYofhu5gap-c_y70I&ust=1673370373161000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLC2isf8uvwCFQAAAAAdAAAAABAF](https://www.national-geographic.pl/media/cache/slider_big/uploads/media/default/0014/23/kot.jpeg)](https://www.national-geographic.pl/media/cache/slider_big/uploads/media/default/0014/23/kot.jpeg))
 
 ### Link
 
